@@ -1,4 +1,4 @@
-# Calculator
+# GUI Calculator
 GUI calculator app which will perform basic arithmetic operations 
 In the calculator class there is both visual and funtionality elements that is developed. 
 A frame was created to house the visual design of a digital calculator, then a textfield and buttons were added. 

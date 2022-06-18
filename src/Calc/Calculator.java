@@ -117,6 +117,11 @@ public class Calculator implements ActionListener {
 			textfield.setText(textfield.getText().concat(".")); 
 			
 		}
+		if(e.getSource()==addButton) {
+			num1 = Double.parseDouble(textfield.getText());
+			operator ='+';
+			textfield.setText("");
+		}
 		if (e.getSource()==subButton) {
 			num1 = Double.parseDouble(textfield.getText());
 			operator = '-';

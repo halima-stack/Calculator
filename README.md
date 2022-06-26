@@ -6,3 +6,9 @@ The buttons include numbers from 0-9, arthmetic operators, equal button, and del
 For the functionality of the calculator, I used a action listener with the ActionPerformed method. With the loops used it checks whether a number or operator was clicked on and the switch statement creates the behavior or action that causes an operation to work such as adding or subtracting or multiplying the numbers. 
 The calculator also has a negative button and is able to consider whether an operator is adding, subtracting or multipling or dividing a negative number then acts accordingly. 
 The calculator has the functionality to handle decimals and is able to use the operators with decimals. 
+
+Demo : 
+
+
+https://user-images.githubusercontent.com/82426331/175797220-afc28c21-52ac-4ece-add3-a232e7a5100f.mp4
+
